@@ -1,0 +1,57 @@
+/* ejercicio1.css */
+
+body{
+	background-color: papayawhip;
+}
+
+.contenedor{
+	/* Marcar un ancho límite y centrar el contenido // wrapper */
+	max-width: 1000px;
+	margin: auto;
+}
+
+.cabecera{
+	background-color: yellow;
+	height: 50px;
+}
+
+.menu  { 
+
+background-color: beige;
+height: 400px;
+float: left; 
+width: 300px;
+}
+
+.contenido{
+	background-color: red;
+	height: 400px;
+	width: 500px;
+	float: left;
+	
+}
+.lateral { 
+background-color: green;
+height: 400px;
+float: right;
+width: 200px;
+}
+
+
+.pie{
+	background-color: skyblue;
+	height: 50px;
+	clear: both; 
+	width: 1000px;
+	
+}
+
+
+
+
+
+
+
+
+
+
